@@ -1,5 +1,5 @@
 package main.utils;//package carrying DBconfigurations creditials
-
+//tests
 public class DBConfig {
     public static final String HOST     = "localhost";// Updated host
     public static final String PORT     = "3306";// Updated port number
