@@ -1,4 +1,4 @@
-package main.utils;
+package main.utils;//package carrying DBconfigurations creditials
 
 public class DBConfig {
     public static final String HOST     = "localhost";// Updated host
